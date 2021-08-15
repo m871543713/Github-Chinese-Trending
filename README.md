@@ -10,7 +10,7 @@
 | --------- | ------------------------------------------------------------ |
 | 2021/8/13 | [点击跳转到日榜](https://github.com/m871543713/Github-Chinese-Trending/blob/master/2021/202108/20210813/20210813.md) |
 | 2021/8/14 | [点击跳转到日榜](https://github.com/m871543713/Github-Chinese-Trending/blob/master/2021/202108/20210814/20210814.md) |
-|           |                                                              |
+| 2021/8/15 | [点击跳转到日榜](https://github.com/m871543713/Github-Chinese-Trending/blob/master/2021/202108/20210815/20210815.md) |
 
 
 
